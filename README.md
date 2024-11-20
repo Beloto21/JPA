@@ -15,6 +15,8 @@
 * AS IMAGENS DEVEM COMPOR O README.MD DO PROJETO;
 * ESTÁ ATIVIDADE É VALIDA PARA AVALIAÇÃO FINAL.
 
+![Banco de dados](assets/Banco.png)
+
 
 ## 🛠️ Construído com
 
