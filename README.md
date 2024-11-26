@@ -23,6 +23,7 @@
 ## 🛠️ Construído com
 
 * IDE Eclipse
+* WampServer
 
 ## 📌 Versão
 
@@ -30,4 +31,4 @@
 
 ## ✒️ Autores
 
-* Nicolas Beloto Armenio - GERENCIAMENTO FRUTAS (GRAPHICAL USER INTERFACE)
+* Nicolas Beloto Armenio - JPA
